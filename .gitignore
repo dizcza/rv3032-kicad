@@ -1,0 +1,16 @@
+:*-backups/
+.idea/
+*.bak
+*.kicad_prl
+fp-info-cache
+ignored/
+CNC/
+Gerbers*
+*.FlatPrj
+~*
+.~*
+production/
+jlcpcb/
+*-backups/
+*.csv
+*.xml

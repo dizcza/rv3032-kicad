@@ -11,6 +11,7 @@ A replacement of the DS3231 with the same board pinout:
 | SQW    | CLKOUT | Temperature compensated square wave             |
 | 32K    | INT    | DS3231: oscillator clock; RV3032: interrupt pin |
 
+Board dimensions: 14 x 16 mm.
 
 <img src="view_top.png"/>
 
